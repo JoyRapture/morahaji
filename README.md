@@ -15,28 +15,5 @@
     * Eclipse Jee, Oracle Database 11g, Tomcat 8.5
     
     * JAVA, HTML, JavaScript, jQuery, Bootstrap, Servlet
-    
-**담당 역할**
 
-    * 데이터베이스 설계 및 관리
-
-    * 로그인/회원가입/비밀번호 찾기
-
-    * 메인 화면
-
-        * 단어 관련
-
-            등록/수정/삭제
-
-            좋아요/싫어요/신고/북마크
-
-            단어 순위
-
-        * API 사용
-
-            giphy : gif 검색 및 등록
-
-            papago : 한/영 번역
-
-        * 헤더
 
